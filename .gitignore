@@ -4,4 +4,5 @@ task1/notebooks/test.ipynb
 task1/models/model_cnn.pth
 task1/models/model_nn.pth
 task1/models/model_rf.pkl
+ task1/src/__pycache__
 
